@@ -1,0 +1,18 @@
+$primary: #ebe83a;
+
+palette {
+  primary: orange;
+  --secondary: yellow;
+}
+a { cursor: pointer; }
+
+ul.pagination li.page-item {padding: 0}
+
+.content {
+  max-width: 500px;
+
+
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}

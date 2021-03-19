@@ -1,0 +1,54 @@
+{
+  "name": "elferrat-songbook",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.3.7",
+    "@apollo/react-hooks": "^3.1.5",
+    "@date-io/date-fns": "^1.0",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.49",
+    "@material-ui/pickers": "^3.2.10",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "apollo-boost": "^0.4.7",
+    "axios": "^0.21.1",
+    "date-fns": "^2.12.0",
+    "graphql": "^14.5.8",
+    "mic-recorder-to-mp3": "^2.2.2",
+    "node-sass": "^4.13.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-mic": "^12.4.6",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "4.0.1",
+    "react-transition-group": "^4.3.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
